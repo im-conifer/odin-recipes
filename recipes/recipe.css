@@ -1,0 +1,20 @@
+* {
+    line-height: 1.5;
+    background-color: #ffe;
+}
+
+img {
+    width: 600px;
+    height: auto;
+}
+
+.header {
+    text-align: center;
+    font-size: 1.1rem;
+}
+
+a {
+    color: blue;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
