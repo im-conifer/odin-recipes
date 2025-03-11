@@ -5,8 +5,8 @@
 }
 
 .thumbnail {
-    width: 200px;
-    height: auto;
+    height: 200px;
+    width: auto;
 }
 
 ul {
@@ -16,4 +16,9 @@ ul {
 a {
     color: blue;
     font-size: 1.2rem;
+}
+
+.recipe {
+    display: inline-block;
+    padding: 10px;
 }
